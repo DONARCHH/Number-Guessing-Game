@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: teal
+}
+
+.game-container {
+  text-align: center;
+  background: #0c0c0c; 
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h1 {
+  color: white;
+}
+
+input {
+  margin: 10px;
+  padding: 5px;
+  font-size: 1em;
+}
+
+button {
+  padding: 5px 10px;
+  font-size: 1em;
+}
+
+#feedback {
+  margin-top: 15px;
+  font-size: 1.1em;
+  color: #666;
+}
+
+.inp{
+  color: white;
+  font-size: 20px;
+}
